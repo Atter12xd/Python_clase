@@ -1,7 +1,6 @@
-a = 2 
-b = 10
-comando = a + b
+a = 10
+b = 50
+comando = a - b
 
-print("la suma de a y b es", comando)
-
+print("la resta de a y b es", comando)
 
